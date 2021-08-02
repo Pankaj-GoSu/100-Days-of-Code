@@ -5,3 +5,8 @@ def my_function():
     
 
 my_function()
+
+def add(a,b):
+    return a+b
+
+print(add(5,6))    
