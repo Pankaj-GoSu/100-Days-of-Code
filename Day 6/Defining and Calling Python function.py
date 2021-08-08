@@ -15,3 +15,9 @@ def div(a,b):
     return a/b
     
 print(div(7,5))
+
+def mul(a,b):
+    return a*b 
+
+print(mul(7,5))
+
