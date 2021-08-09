@@ -21,3 +21,5 @@ def mul(a,b):
 
 print(mul(7,5))
 
+def sub(a,b):
+    return a-b 
