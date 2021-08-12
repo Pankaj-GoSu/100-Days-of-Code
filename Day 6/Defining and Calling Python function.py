@@ -24,5 +24,8 @@ print(mul(7,5))
 def sub(a,b):
     return a-b 
     
-def add(a,b,c):
+def add3(a,b,c):
     return a+b+c
+    
+def mul3(a,b,c):
+    return a*b*c
