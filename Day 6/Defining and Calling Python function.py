@@ -37,4 +37,5 @@ def mul4(a,b,c,d):
     return a*b*c*d
     
 print(mul4(1,2,3,4))
+print(mul3(2,3,4))
     
