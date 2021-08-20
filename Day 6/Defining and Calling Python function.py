@@ -39,4 +39,5 @@ def mul4(a,b,c,d):
 print(mul4(1,2,3,4))
 print(mul3(2,3,4))
 print(add3(12,23,4))
+print(add4(23,45,6,4))
     
