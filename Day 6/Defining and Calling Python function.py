@@ -41,4 +41,5 @@ print(mul3(2,3,4))
 print(add3(12,23,4))
 print(add4(23,45,6,4))
 print(add(2,3))
+print(mul(12,3))
     
