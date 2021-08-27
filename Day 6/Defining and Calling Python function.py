@@ -44,4 +44,5 @@ print(add(2,3))
 print(mul(12,3))
 print(div(7,8))
 print(add3(23,34,56))
+print(add(23,65))
     
